@@ -1,16 +1,26 @@
-# app
+# Public Transportation Tracking App 🚋🚌
 
-A new Flutter project.
+A mobile app that tracks real-time locations of trams and buses to help commuters plan their journeys efficiently.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- 🗺️ Live tracking of trams and buses on an interactive map
+- ⏰ Real-time arrival times at stops
+- 🔔 Notifications for delays, route changes, or disruptions
+- 📍 Find nearest tram/bus stops based on current location
+- 💬 Multilingual support (optional, if implemented)
+- 🏆 User-friendly interface with smooth animations
 
-A few resources to get you started if this is your first Flutter project:
+## 🔧 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Frontend:** Flutter / React Native / [your framework]
+- **Backend:** Node.js / Express / Firebase / [your backend]
+- **Database:** MongoDB / PostgreSQL / Firebase Realtime DB / [your database]
+- **APIs:** Google Maps API / Mapbox / [any transit APIs you use]
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Sherifmohamed2002/tramify
+   cd tramify
