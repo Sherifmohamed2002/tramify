@@ -23,4 +23,4 @@ A mobile app that tracks real-time locations of trams and buses to help commuter
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Sherifmohamed2002/tramify
-   cd tram-bus-tracking-app
+   cd tramify
